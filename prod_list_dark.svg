@@ -1,0 +1,15 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="200" height="200" rx="4" fill="#EDEDED"/>
+<rect x="20" y="140" width="60" height="40" rx="4" fill="#2E3343"/>
+<path d="M100 146H180" stroke="#2E3343" stroke-width="2"/>
+<path d="M100 160H180" stroke="#2E3343" stroke-width="2"/>
+<path d="M100 174H180" stroke="#2E3343" stroke-width="2"/>
+<rect x="20" y="20" width="60" height="40" rx="4" fill="#2E3343"/>
+<path d="M100 26H180" stroke="#2E3343" stroke-width="2"/>
+<path d="M100 40H180" stroke="#2E3343" stroke-width="2"/>
+<path d="M100 54H180" stroke="#2E3343" stroke-width="2"/>
+<rect x="20" y="80" width="60" height="40" rx="4" fill="#2E3343"/>
+<path d="M100 86H180" stroke="#2E3343" stroke-width="2"/>
+<path d="M100 100H180" stroke="#2E3343" stroke-width="2"/>
+<path d="M100 114H180" stroke="#2E3343" stroke-width="2"/>
+</svg>
