@@ -12,7 +12,10 @@ body {
 }
 
 .parentDiv {
+    
+    
     display: grid;
+    
     grid-template-columns: 1fr 1fr 1fr;
     padding: 10px;
 }
@@ -45,22 +48,48 @@ body {
 }
 .cover{
     overflow: hidden;
+    
     background-image: url(Group1.svg);
+    
     height: 150px;
     width: 150px;
 }
 .cover.listing {
    
-    background-position: 0 0;
+    background-position-x: 0;
+    background-position-y: 0;
+    
+}
+.cover.dark{
+    background-position-x: 0;
+    background-position-y: -150px;
+    
 }
 
 .cover.details {
-   background-position: -150px 0;
+   
+   background-position-x: -150px;
+   background-position-y: 0;
     
 }
-.cover.listing_details {
-    background-position: -300px 0;
+.cover.dark2{
+    background-position-x: -150px;
+    background-position-y: -150px;
+    
 }
+
+
+.cover.listing_details {
+    
+    background-position-x: -300px;
+    background-position-y: 0;
+}
+.cover.dark3{
+    background-position-x: -300px;
+    background-position-y: -150px;
+    
+}
+
  h4 {
     text-align: center;
 margin-top: 12px;
