@@ -60,11 +60,6 @@ body {
     background-position-y: 0;
     
 }
-.cover.dark{
-    background-position-x: 0;
-    background-position-y: -150px;
-    
-}
 
 .cover.details {
    
@@ -72,22 +67,13 @@ body {
    background-position-y: 0;
     
 }
-.cover.dark2{
-    background-position-x: -150px;
-    background-position-y: -150px;
-    
-}
+
 
 
 .cover.listing_details {
     
     background-position-x: -300px;
     background-position-y: 0;
-}
-.cover.dark3{
-    background-position-x: -300px;
-    background-position-y: -150px;
-    
 }
 
  h4 {
